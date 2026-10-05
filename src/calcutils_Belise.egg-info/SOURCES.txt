@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/calcutils/__init__.py
+src/calcutils/operations.py
+src/calcutils_Belise.egg-info/PKG-INFO
+src/calcutils_Belise.egg-info/SOURCES.txt
+src/calcutils_Belise.egg-info/dependency_links.txt
+src/calcutils_Belise.egg-info/top_level.txt
